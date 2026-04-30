@@ -53,6 +53,16 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 ## Contents
 
+## OpenClaw Monitor
+
+> Real-time AI Agent Monitoring Dashboard for OpenClaw
+
+**GitHub:** [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) ⭐
+
+![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+
+
+
 - [Awesome Go](#awesome-go)
   - [Contents](#contents)
   - [Actor Model](#actor-model)
